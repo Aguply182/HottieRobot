@@ -80,7 +80,7 @@ def get_readable_time(seconds: int) -> str:
 PM_START_TEXT = """
 ────「 [{}](https://telegra.ph/file/7153ff6d5a0e2711f24d7.jpg) 」────
 *Whassup! {},*
-*I am an Anime themed advance group management bot with a lot of Hot Features.*
+*I am an advance group management bot with a lot of Hot Feateature.*
 ➖➖➖➖➖➖➖➖➖➖➖➖➖
 • *Uptime:* `{}`
 • `{}` *users, across* `{}` *chats.*
@@ -103,7 +103,7 @@ buttons = [
     ],
     [
         InlineKeyboardButton(text="❄️ Support", url=f"https://t.me/{SUPPORT_CHAT}"),
-        InlineKeyboardButton(text="☃️ Updates", url="https://t.me/Hottie_Updates"),
+        InlineKeyboardButton(text="☃️ Updates", url="https://t.me/lsncGc"),
     ],
 ]
 
@@ -128,7 +128,7 @@ HOTTIE_IMG = "https://telegra.ph/file/08b3256ecac791444cbf2.jpg"
 HELP_IMG = "https://telegra.ph/file/69866f641bc97c73d146b.jpg"
 
 DONATE_STRING = """Heya, glad to hear you want to donate!
-Click here to donate in [Paypal](https://ko-fi.com/aasfcyberking)"""
+Click here to donate in [OWN](https://t.me/saputraaazka)"""
 
 IMPORTED = {}
 MIGRATEABLE = []
