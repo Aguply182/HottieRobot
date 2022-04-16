@@ -73,14 +73,14 @@ async def alive_function(answers):
     )
 
     msg = f"""
-**[HOTTIE 🔥](https://github.com/AASFCYBERKING/HottieRobot):**
+**[Funny 🔥](https://t.me/LsncGc):**
 **MainBot:** `{bot_state}`
 **UserBot:** `Alive`
 **Python:** `3.9`
 **Pyrogram:** `{pyrover}`
 **MongoDB:** `{mongover}`
 **Platform:** `{sys.platform}`
-**Profiles:** [BOT](t.me/Hottie_Robot)
+**Profiles:** [BOT](t.me/saputraaubot)
 """
     answers.append(
         InlineQueryResultArticle(
